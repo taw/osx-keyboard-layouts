@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.1.10 on 2012-05-11 at 09:20 (BST)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-03-03 at 19:41 (GMT+1)-->
 <!--Created by Ukelele version 2.1.10 on 2012-05-11 at 08:52 (BST)-->
 <keyboard group="29" id="30788" name="Polish Dvorak" maxout="1">
     <layouts>
@@ -388,9 +388,9 @@
             <key code="6" output="…"/>
             <key code="7" output="œ"/>
             <key code="8" output="ć"/>
-            <key code="9" output="√"/>
+            <key code="9" output="ź"/>
             <key code="10" output="¬"/>
-            <key code="11" output="ź"/>
+            <key code="11" output="≈"/>
             <key code="12" output="æ"/>
             <key code="13" output="≤"/>
             <key code="14" output="≥"/>
@@ -426,7 +426,7 @@
             <key code="44" output="ż"/>
             <key code="45" output="∫"/>
             <key code="46" output="µ"/>
-            <key code="47" output="√"/>
+            <key code="47" output="ź"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
             <key code="50" action="2"/>
@@ -502,7 +502,7 @@
             <key code="8" output="Ć"/>
             <key code="9" output=""/>
             <key code="10" output="¬"/>
-            <key code="11" output="Ź"/>
+            <key code="11" output="Œ"/>
             <key code="12" output="Æ"/>
             <key code="13" output="¯"/>
             <key code="14" output="˘"/>
@@ -538,7 +538,7 @@
             <key code="44" output="Ż"/>
             <key code="45" output="Ń"/>
             <key code="46" output="Â"/>
-            <key code="47" output="◊"/>
+            <key code="47" output="Ź"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
             <key code="50" output="`"/>
